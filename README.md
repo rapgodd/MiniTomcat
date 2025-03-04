@@ -100,6 +100,8 @@ Socket clientSocket = serverSocket.accept();
 getOutputStream()을 호출해서 쓰기 버퍼에 적을 준비를 하고 write() 시스템 콜을 호출하여 결과를 써서 보낸다.
 
 
+---
+## 톰캣 전체 흐름 구조도 한눈에 보기 [https://giyeontomcatflow.my.canva.site/]
 
 
 
